@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tejasvi  
 
-🎓 B.Tech CSE | Full-Stack Developer  
-💻 C++, HTML, CSS, JavaScript  
+🎓 B.Tech CSE | Aspiring Full-Stack Developer  
+💻 C++, HTML, CSS, JavaScript ,Java  
 🚀 Learning DSA & Web Development  
 🔧 Building projects & exploring new technologies  
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/tejasvi-jain-461320282/)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/tejasvi-2005y/)
